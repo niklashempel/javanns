@@ -1,0 +1,25 @@
+# Compiled class files
+*.class
+
+# Build directories
+dist/
+target/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Library file (generated during build)
+libSNNS_jkr.so
+libSNNS_jkr.jnilib
+SNNS_jkr.dll
+
+# Properties files in home directory (not in repo)
+JavaNNS.properties
